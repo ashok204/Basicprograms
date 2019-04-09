@@ -1,8 +1,10 @@
-package com.collections;
+package com.Arrays;
 
 public class Student {
-	int id;
-	String name;
-	String email;
 
+ int id;
+String name;
+String email;
+String address;
+Address aa;
 }
